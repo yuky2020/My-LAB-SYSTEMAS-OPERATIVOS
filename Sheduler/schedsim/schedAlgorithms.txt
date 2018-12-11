@@ -1,0 +1,4 @@
+RR
+SJF
+FCFS
+PRIO
